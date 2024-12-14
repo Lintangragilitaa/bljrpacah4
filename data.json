@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nama": "Aneka Kerajinan Kayu",
+        "gambar": "assets/barang1.jpg",
+        "harga": "15000",
+        "stok": 0,
+        "deskripsi": "Kerajinan kayu ini dibuat dengan menggunakan teknik tradisional oleh pengrajin lokal yang sudah berpengalaman. Setiap produk memiliki ciri khasnya sendiri, dengan detail yang rumit dan estetika yang memikat. Aneka kerajinan kayu ini bisa dijadikan sebagai pajangan di rumah, atau bahkan sebagai hadiah untuk orang terdekat. Kualitas kayu yang digunakan sangat baik, memberikan kesan elegan dan tahan lama. Tersedia dalam berbagai bentuk dan ukuran, dan sangat cocok untuk mempercantik interior rumah Anda."
+    },
+    {
+        "id": 2,
+        "nama": "Aneka Mug Kayu",
+        "gambar": "assets/barang2.jpg",
+        "harga": "25000",
+        "stok": 10,
+        "deskripsi": "Mug kayu ini tidak hanya berfungsi sebagai tempat minum, tetapi juga sebagai karya seni yang memancarkan kehangatan dan keindahan alam. Setiap mug dibuat dari kayu pilihan dengan proses pembuatan yang memakan waktu dan ketelitian tinggi. Dengan desain yang sederhana namun penuh makna, mug ini dapat memberikan pengalaman berbeda saat menikmati kopi atau teh Anda. Dilengkapi dengan permukaan yang halus, mug kayu ini juga memberikan sensasi alami yang menyegarkan, cocok digunakan sehari-hari atau sebagai koleksi bagi pecinta seni."
+    },
+    {
+        "id": 3,
+        "nama": "Tas Anyam",
+        "gambar": "assets/barang3.jpg",
+        "harga": "35000",
+        "stok": 20,
+        "deskripsi": "Tas anyaman ini terbuat dari bahan alami seperti rotan atau pandan yang dianyam secara manual oleh pengrajin handal. Desainnya yang unik dan alami memberikan kesan tradisional yang kental, namun tetap terlihat stylish dan modis. Cocok untuk digunakan dalam berbagai acara, baik formal maupun kasual. Selain itu, tas anyam ini sangat kuat dan tahan lama, cocok untuk membawa barang-barang sehari-hari. Keindahan anyaman tangan yang rapat memberikan sentuhan artistik yang tidak bisa ditemukan pada tas produk massal lainnya."
+    },
+    {
+        "id": 4,
+        "nama": "Teko Tanah Liat",
+        "gambar": "assets/barang4.jpg",
+        "harga": "35000",
+        "stok": 1,
+        "deskripsi": "Teko tanah liat ini dibuat menggunakan teknik tradisional yang sudah ada sejak berabad-abad lalu. Keunikan dari teko tanah liat ini terletak pada proses pembuatan yang menggunakan tangan, memberikan setiap teko bentuk dan karakter yang berbeda. Biasanya digunakan untuk menyajikan teh atau kopi, teko ini mampu menjaga suhu minuman agar tetap hangat lebih lama. Desain klasiknya sangat cocok untuk menambah nilai estetika dalam rumah atau menjadi koleksi bagi penggemar seni keramik. Dengan kehalusan permukaan dan tekstur tanah liatnya, teko ini juga memberikan sentuhan vintage yang menawan."
+    },
+    {
+        "id": 5,
+        "nama": "Tirai Cangkang Kerang",
+        "gambar": "assets/barang5.jpg",
+        "harga": "100000",
+        "stok": 14,
+        "deskripsi": "Tirai cangkang kerang ini terbuat dari ribuan kerang yang dirangkai dengan tangan, menciptakan tirai yang tidak hanya fungsional, tetapi juga indah sebagai elemen dekorasi. Cocok untuk digunakan di pintu atau jendela, tirai ini dapat memberikan nuansa tropis dan alami pada ruangan. Kerang yang digunakan diambil dengan cara yang berkelanjutan, menjamin kealamian produk ini tanpa merusak ekosistem laut. Selain itu, tirai ini juga menghasilkan suara gemericik air saat diterpa angin, memberikan sensasi relaksasi dan ketenangan di rumah Anda."
+    },
+    {
+        "id": 6,
+        "nama": "Kain Tenun",
+        "gambar": "assets/barang6.jpg",
+        "harga": "150000",
+        "stok": 1,
+        "deskripsi": "Kain tenun tradisional ini dibuat dengan tangan menggunakan alat tenun yang sudah digunakan oleh nenek moyang selama ratusan tahun. Proses pembuatan kain ini memerlukan waktu yang lama, dan setiap helai kain tenun mengandung nilai budaya dan sejarah yang sangat mendalam. Dikenal dengan corak yang khas dan berwarna cerah, kain tenun ini sangat cocok digunakan untuk pakaian adat, atau bahkan dijadikan sebagai dekorasi rumah seperti taplak meja dan tirai. Bahan yang digunakan sangat nyaman dan adem di kulit, serta memberikan kesan elegan dan mewah."
+    },
+    {
+        "id": 7,
+        "nama": "Batik Tradisional",
+        "gambar": "assets/barang7.jpg",
+        "harga": "250000",
+        "stok": 218,
+        "deskripsi": "Batik tradisional Indonesia ini dibuat dengan teknik pewarnaan yang unik menggunakan lilin panas. Setiap motif batik memiliki makna filosofis dan menceritakan sebuah cerita atau legenda dari daerah asalnya. Batik ini sangat cocok digunakan untuk acara formal, seperti pernikahan atau pesta, namun juga bisa digunakan untuk sehari-hari. Bahan yang digunakan dalam batik ini sangat halus dan nyaman di kulit, memberikan kesan mewah dan elegan. Batik ini juga menjadi simbol kebanggaan budaya Indonesia yang sudah mendunia."
+    },
+    {
+        "id": 8,
+        "nama": "Wayang Kulit",
+        "gambar": "assets/barang8.jpg",
+        "harga": "300000",
+        "stok": 1,
+        "deskripsi": "Wayang kulit adalah seni pertunjukan tradisional yang telah ada sejak lama di Indonesia, terutama di Jawa dan Bali. Setiap wayang kulit terbuat dari kulit sapi yang diproses dan dipahat dengan tangan oleh pengrajin yang sangat terampil. Wayang kulit ini sering digunakan dalam pertunjukan wayang kulit yang menggabungkan musik gamelan dan cerita-cerita mitologi dari budaya Jawa. Sebagai karya seni, wayang kulit ini juga sangat berharga sebagai koleksi budaya dan bisa dijadikan sebagai dekorasi rumah. Setiap detail dalam wayang kulit ini memiliki makna yang mendalam dan membawa cerita sejarah yang hidup."
+    }
+]
